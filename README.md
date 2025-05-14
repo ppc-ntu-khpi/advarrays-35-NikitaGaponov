@@ -26,4 +26,4 @@
 ```
 
 ## 📸 Скріншот роботи програми
-![Program Output]()
+![Program Output](https://github.com/ppc-ntu-khpi/advarrays-35-NikitaGaponov/blob/master/photo.png)
